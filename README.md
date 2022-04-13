@@ -37,7 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Fiel a nuestra razón de ser.<br>Más salvadoreños pobres liberados de la ceguera<br><br>Ante un gobierno indiferente e inhumano se impone el poder del pueblo <a href="https://t.co/8ys6htZPAg">pic.twitter.com/8ys6htZPAg</a></p>&mdash; Red de Solidaridad Operacion y Mision Milagro SV (@RedsommSV) <a href="https://twitter.com/RedsommSV/status/1514043463737745415?ref_src=twsrc%5Etfw">April 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Get a feed of the hottest developer news personalized to you 👨‍💻👩‍💻<br><br>Read more quality articles. <br>100% free.<br>Stay up to date. <br>Save time.<br>Free forever. <br>No signup. <br>100% open-source.<br><br>Add to Browser - IT&#39;S FREE &gt;&gt;</p>&mdash; daily.dev (@dailydotdev) <a href="https://twitter.com/dailydotdev/status/1501175982614618121?ref_src=twsrc%5Etfw">March 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 | Número |       Ítem       |
